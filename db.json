@@ -1,51 +1,54 @@
 {
-    "logs": [
-      {
-        "id": 1,
-        "message": "Changed server cables on workstation 009",
-        "attention": false,
-        "date": "2019-05-31T15:46:10.179Z",
-        "tech": "Sam Smith"
-      },
-      {
-        "id": 2,
-        "message": "Workstation 003 not posting",
-        "attention": false,
-        "date": "2019-05-31T15:46:10.179Z",
-        "tech": "John Doe"
-      },
-      {
-        "id": 3,
-        "message": "1122 wireless down",
-        "attention": true,
-        "date": "2019-05-31T15:46:48.690Z",
-        "tech": "Sara Wilson"
-      },
-      {
-        "id": 4,
-        "message": "Workstation 026 is up and running",
-        "attention": false,
-        "date": "2019-05-31T19:57:35.544Z",
-        "tech": "Sara Wilson" 
-      }
-    ],
-
-    "techs": [
-      {
-        "id": 1,
-        "firstName": "John",
-        "lastName": "Doe"
-      },
-      {
-        "id": 2,
-        "firstName": "Sam",
-        "lastName": "Smith"
-      },
-      {
-        "id": 3,
-        "firstName": "Sara",
-        "lastName": "Wilson"
-      }
-    ]
+  "logs": [
+    {
+      "id": 1,
+      "message": "Changed server cables on workstation 009",
+      "attention": false,
+      "date": "2019-05-31T15:46:10.179Z",
+      "tech": "Sam Smith"
+    },
+    {
+      "id": 2,
+      "message": "Workstation 003 not posting",
+      "attention": false,
+      "date": "2019-05-31T15:46:10.179Z",
+      "tech": "John Doe"
+    },
+    {
+      "id": 3,
+      "message": "1122 wireless down",
+      "attention": true,
+      "date": "2019-05-31T15:46:48.690Z",
+      "tech": "Sara Wilson"
+    },
+    {
+      "id": 4,
+      "message": "Workstation 026 is up and running",
+      "attention": false,
+      "date": "2019-05-31T19:57:35.544Z",
+      "tech": "Sara Wilson"
+    }
+  ],
+  "techs": [
+    {
+      "id": 1,
+      "firstName": "John",
+      "lastName": "Doe"
+    },
+    {
+      "id": 2,
+      "firstName": "Sam",
+      "lastName": "Smith"
+    },
+    {
+      "id": 3,
+      "firstName": "Sara",
+      "lastName": "Wilson"
+    },
+    {
+      "firstName": "Kevin",
+      "lastName": "Dusti",
+      "id": 4
+    }
+  ]
 }
-  
