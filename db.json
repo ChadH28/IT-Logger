@@ -1,32 +1,25 @@
 {
   "logs": [
     {
-      "id": 1,
-      "message": "Changed server cables on workstation 009",
+      "message": "Fix glitching error on computer 009",
       "attention": false,
-      "date": "2019-05-31T15:46:10.179Z",
-      "tech": "Sam Smith"
+      "tech": "John Doe",
+      "date": "2020-06-24T16:10:38.695Z",
+      "id": 1
     },
     {
-      "id": 2,
-      "message": "Workstation 003 not posting",
+      "message": "Generators are down",
       "attention": false,
-      "date": "2019-05-31T15:46:10.179Z",
-      "tech": "John Doe"
+      "tech": "Willy will",
+      "date": "2020-06-24T17:42:11.966Z",
+      "id": 2
     },
     {
       "id": 3,
-      "message": "1122 wireless down",
-      "attention": true,
-      "date": "2019-05-31T15:46:48.690Z",
-      "tech": "Sara Wilson"
-    },
-    {
-      "id": 4,
-      "message": "Workstation 026 is up and running",
+      "message": "Changed lights, all done for.",
       "attention": false,
-      "date": "2019-05-31T19:57:35.544Z",
-      "tech": "Sara Wilson"
+      "tech": "John Doe",
+      "date": "2020-06-24T17:48:46.059Z"
     }
   ],
   "techs": [
