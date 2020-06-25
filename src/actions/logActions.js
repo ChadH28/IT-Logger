@@ -138,7 +138,7 @@ export const clearCurrent = () => {
     };
 };
 
-// Set loading to true
+// Set the loading to true
 export const setLoading = () => {
     return {
         type: SET_LOADING
